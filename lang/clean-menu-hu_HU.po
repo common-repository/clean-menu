@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean MenuTome\n"
+"POT-Creation-Date: 2021-06-19 16:42+0200\n"
+"PO-Revision-Date: 2021-06-19 16:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: Tomek <tomek.maestro@gmail.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: clean-menu.php\n"
+
+#: clean-menu.php:855
+msgid "Clean Menu settings"
+msgstr "Clean Menu bealításai"
+
+#: clean-menu.php:863
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+#: clean-menu.php:870 clean-menu.php:1025 clean-menu.php:1063
+#: clean-menu.php:1110 clean-menu.php:1172
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#: clean-menu.php:873
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: clean-menu.php:876
+msgid "Updates"
+msgstr "Frissítések"
+
+#: clean-menu.php:879 clean-menu.php:1028 clean-menu.php:1066
+#: clean-menu.php:1113
+msgid "Posts"
+msgstr "Bejegyzés"
+
+#: clean-menu.php:882 clean-menu.php:1031 clean-menu.php:1069
+#: clean-menu.php:1116
+msgid "All Posts"
+msgstr "Összes bejegyzés"
+
+#: clean-menu.php:885 clean-menu.php:900 clean-menu.php:909 clean-menu.php:945
+#: clean-menu.php:957 clean-menu.php:1034 clean-menu.php:1072
+#: clean-menu.php:1081 clean-menu.php:1119 clean-menu.php:1134
+#: clean-menu.php:1143
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: clean-menu.php:888 clean-menu.php:1122
+msgid "Categories"
+msgstr "Kategória"
+
+#: clean-menu.php:891 clean-menu.php:1125
+msgid "Tags"
+msgstr "Címke"
+
+#: clean-menu.php:894 clean-menu.php:999 clean-menu.php:1075
+#: clean-menu.php:1128
+msgid "Media"
+msgstr "Médiatár"
+
+#: clean-menu.php:897 clean-menu.php:1078 clean-menu.php:1131
+msgid "Libary"
+msgstr "Médiatár"
+
+#: clean-menu.php:903 clean-menu.php:1137
+msgid "Pages"
+msgstr "Oldalak"
+
+#: clean-menu.php:906 clean-menu.php:1140
+msgid "All Pages"
+msgstr "Összes oldal"
+
+#: clean-menu.php:912 clean-menu.php:1037 clean-menu.php:1084
+#: clean-menu.php:1146
+msgid "Comments"
+msgstr "Hozzászólás"
+
+#: clean-menu.php:915
+msgid "Appeearance"
+msgstr "Megjelenés"
+
+#: clean-menu.php:918
+msgid "Themes"
+msgstr "Sablonok"
+
+#: clean-menu.php:921
+msgid "Customize"
+msgstr "Testreszabás"
+
+#: clean-menu.php:924
+msgid "Widgets"
+msgstr "Widgetek"
+
+#: clean-menu.php:927
+msgid "Menus"
+msgstr "Menük"
+
+#: clean-menu.php:930
+msgid "Header"
+msgstr "Fejrész"
+
+#: clean-menu.php:933
+msgid "Background"
+msgstr "Héttér"
+
+#: clean-menu.php:936 clean-menu.php:948 clean-menu.php:1103
+msgid "Editor"
+msgstr "Szerkesztő"
+
+#: clean-menu.php:939
+msgid "Plugins"
+msgstr "Bővítmények"
+
+#: clean-menu.php:942
+msgid "Installed Plugins"
+msgstr "Telepített bővítmények"
+
+#: clean-menu.php:951
+msgid "Users"
+msgstr "Felhasználók"
+
+#: clean-menu.php:954
+msgid "All Users"
+msgstr "Összes felhasználó"
+
+#: clean-menu.php:960
+msgid "Your Profile"
+msgstr "Saját adatlap"
+
+#: clean-menu.php:963 clean-menu.php:1043 clean-menu.php:1090
+#: clean-menu.php:1152
+msgid "Tools"
+msgstr "Eszközök"
+
+#: clean-menu.php:966
+msgid "Available Tools"
+msgstr "Elérhető eszközök"
+
+#: clean-menu.php:969
+msgid "Import"
+msgstr "Importálás"
+
+#: clean-menu.php:972
+msgid "Export"
+msgstr "Exportálás"
+
+#: clean-menu.php:975
+msgid "Site health"
+msgstr "Webhely egészség"
+
+#: clean-menu.php:978
+msgid "Export Personal Data"
+msgstr "Személyes adat exportálása"
+
+#: clean-menu.php:981
+msgid "Erase Personal Data"
+msgstr "Személyes adat törlése"
+
+#: clean-menu.php:984 clean-menu.php:1320
+msgid "Settings"
+msgstr "Beállítások"
+
+#: clean-menu.php:987
+msgid "General"
+msgstr "Általános"
+
+#: clean-menu.php:990
+msgid "Writing"
+msgstr "Írás"
+
+#: clean-menu.php:993
+msgid "Reading"
+msgstr "Olvasás"
+
+#: clean-menu.php:996
+msgid "Discussion"
+msgstr "Interakció"
+
+#: clean-menu.php:1002
+msgid "Permalinks"
+msgstr "Közbetlen linkek"
+
+#: clean-menu.php:1005
+msgid "Privacy"
+msgstr "Személyes adatok védelme"
+
+#: clean-menu.php:1008 clean-menu.php:1046 clean-menu.php:1093
+#: clean-menu.php:1155 clean-menu.php:1178
+msgid "Copllapse menu"
+msgstr "Összezárás"
+
+#: clean-menu.php:1018
+msgid "Contributor"
+msgstr "Közreműködő"
+
+#: clean-menu.php:1040 clean-menu.php:1087 clean-menu.php:1149
+#: clean-menu.php:1175
+msgid "Profile"
+msgstr "Adatlap"
+
+#: clean-menu.php:1056
+msgid "Author"
+msgstr "Szerző"
+
+#: clean-menu.php:1165
+msgid "Subscriber"
+msgstr "Feliratkozó"
+
+#: clean-menu.php:1188
+msgid "Other"
+msgstr "Egyéb"
+
+#: clean-menu.php:1195
+msgid "Show WP-LEARNING news"
+msgstr "WP-LEARNING hírek mutatása "
+
+#: clean-menu.php:1202
+msgid "Save Changes"
+msgstr "Módosítások mentése"
+
+#: clean-menu.php:1205
+msgid "A plugin by "
+msgstr "A bővítményt készítette:"
+
+#: clean-menu.php:1213 clean-menu.php:1214
+msgid "Clean menu"
+msgstr "Tiszta menü"
+
+#~ msgid "Donation"
+#~ msgstr "Felajánlás"
